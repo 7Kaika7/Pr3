@@ -23,6 +23,9 @@ namespace pr
                 case '-':
                     Console.WriteLine($"a - b = {clas.Minus(a, b)}");
                     break;
+                case '*':
+                    Console.WriteLine($"a * b = {clas.Multi(a, b)}");
+                    break;
             }
             Console.ReadKey(); 
         }
