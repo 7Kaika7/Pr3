@@ -14,5 +14,7 @@ namespace Пр3_ИСРПО_
         { return a - b; }
         public double Multi(double a, double b)
         { return a * b; }
+        public double Div(double a, double b)
+        { return a / b; }
     }
 }
