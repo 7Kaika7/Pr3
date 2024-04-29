@@ -1,0 +1,14 @@
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\obj\Debug\net7.0\Пр3(ИСРПО).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\obj\Debug\net7.0\Пр3(ИСРПО).AssemblyInfoInputs.cache
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\obj\Debug\net7.0\Пр3(ИСРПО).AssemblyInfo.cs
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\obj\Debug\net7.0\Пр3(ИСРПО).csproj.CoreCompileInputs.cache
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\bin\Debug\net7.0\Пр3(ИСРПО).exe
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\bin\Debug\net7.0\Пр3(ИСРПО).deps.json
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\bin\Debug\net7.0\Пр3(ИСРПО).runtimeconfig.json
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\bin\Debug\net7.0\Пр3(ИСРПО).dll
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\bin\Debug\net7.0\Пр3(ИСРПО).pdb
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\obj\Debug\net7.0\Пр3(ИСРПО).dll
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\obj\Debug\net7.0\refint\Пр3(ИСРПО).dll
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\obj\Debug\net7.0\Пр3(ИСРПО).pdb
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\obj\Debug\net7.0\Пр3(ИСРПО).genruntimeconfig.cache
+C:\Users\200ma\OneDrive\Рабочий стол\Пр3(ИСРПО)\obj\Debug\net7.0\ref\Пр3(ИСРПО).dll
